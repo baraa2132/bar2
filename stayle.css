@@ -90,26 +90,26 @@ padding-left: 2.5cm;
     list-style: none;
     margin: 0;
     padding: 0;
+    height: 1cm;
 background-color: black;
-box-shadow: 7px 7px 25px rgb(255, 255, 255);
-width: 21.2cm;
-border: 1px solid white;
+box-shadow: 5px 5px 30px rgb(255, 255, 255);
+width: 17cm;
+border: 2px solid white;
 border-top: none;
 border-radius: 15px;
-height: 1.2cm;
 }
 
 
 .nav5 li a{
     text-decoration: none;
     color: white;
-    font-size: 0.6cm;
+    font-size: 0.5cm;
     text-align: center;
     letter-spacing: 2px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-top: 0.2cm;
     float: left;
-    padding-left: 3.1cm;
+    padding-left: 2.5cm;
 }
 
 
@@ -127,7 +127,7 @@ height: 1.2cm;
 
 #b{
     color: rgb(39, 136, 247);
-    font-size: 0.7cm;
+    font-size: 0.5cm;
     text-decoration: none;
     float: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -494,6 +494,9 @@ line-height: 1.4cm;
     background-color: rgba(0, 199, 66, 0.952);
 
 }
+.nav66{
+    width: 20cm;
+}
 .nav6{
     list-style: none;
     overflow: hidden;
@@ -503,7 +506,7 @@ height: 12cm;
 text-align: center;
 position: absolute;
 width: 20cm;
-margin-left: 14cm;
+margin-left: 8cm;
 margin-top: 3cm;
 background: rgba( 255, 255, 255, 0.00 );
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -517,7 +520,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     height: 5cm;
     width: 5cm;
     position: absolute;
-    margin-left: 17.2cm;
+    margin-left: 9.2cm;
     margin-top: 10.2cm;
 }
 .nav6 li a{
